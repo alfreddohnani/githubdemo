@@ -1,0 +1,10 @@
+div.container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.card{
+    padding: 5%;
+    border: 1px solid #eeeeee;
+    border-radius: 2%;
+}
